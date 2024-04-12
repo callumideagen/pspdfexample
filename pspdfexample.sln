@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pspdfexample", "pspdfexample\pspdfexample.csproj", "{10EC5D26-4423-4D5B-99FB-224E38F54783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10EC5D26-4423-4D5B-99FB-224E38F54783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EC5D26-4423-4D5B-99FB-224E38F54783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EC5D26-4423-4D5B-99FB-224E38F54783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EC5D26-4423-4D5B-99FB-224E38F54783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EBE1C36-80AF-4470-BCE6-790D10040CBA}
+	EndGlobalSection
+EndGlobal
